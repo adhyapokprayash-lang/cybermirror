@@ -14,6 +14,9 @@
 - **Public URL** — Auto-tunnel via Cloudflare or ngrok
 - **Cross-platform** — Works on Linux, macOS, and Termux (Android)
 
+
+USAGE - python3 cybermirror.py
+
 ## Quick Install
 
 ```bash
