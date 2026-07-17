@@ -17,7 +17,7 @@
 ## Quick Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SiteMirror.git
+git clone https://github.com/adhyapokprayash-lang/cybermirror.git
 cd SiteMirror
 chmod +x install.sh
 ./install.sh
